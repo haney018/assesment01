@@ -88,10 +88,8 @@ export default {
   background-size: cover;
   background-position: center;
   pointer-events: none;
-  z-index: 1;
 }
 .jumbotron .jumbotron-text {
-  z-index: 2;
   position: relative;
   height: 100%;
   width: 100%;
