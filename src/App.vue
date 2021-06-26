@@ -4,7 +4,7 @@
       <v-spacer></v-spacer>
 
       <v-btn to="/exercise1">Exsercise 1</v-btn>
-      <v-btn to="/">Exsercise 2</v-btn>
+      <v-btn to="/exercise2">Exsercise 2</v-btn>
       <v-btn to="/about">About Me</v-btn>
       <v-spacer></v-spacer>
     </v-toolbar>
